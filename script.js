@@ -108,16 +108,20 @@ const gameData = {
     },
 
     ending_happy: {
-        text: "The jungle unites against the scientist, balance is restored, and the moon returns."
+        text: "The jungle unites against the scientist, balance is restored, and the moon returns.",
+        image : "assets/dance.png"
      },
      ending_balanced: {
-        text: "The moon is partially restored, shifting between light and dark. The Hollow King remains sealed."
+        text: "The moon is partially restored, shifting between light and dark. The Hollow King remains sealed.",
+        image : "assets/balanced.png"
      },
      ending_cursed: {
-        text: "The Hollow King is freed. The jungle is doomed to eternal darkness."
+        text: "The Hollow King is freed. The jungle is doomed to eternal darkness.",
+        image : "assets/cursed.png"
      },
      ending_sacrifice: {
-        text: "Marsupilami absorbs the moonlight, becoming the Guardian of Shadows but can never return."
+        text: "Marsupilami absorbs the moonlight, becoming the Guardian of Shadows but can never return.",
+        image : "assets/sacrifice.png"
      }
     
 };

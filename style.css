@@ -239,14 +239,14 @@ body {
 }
 
 /* Shrinking animation for the circle */
-@keyframes shrink {
+/* @keyframes shrink {
     from {
         stroke-dasharray: 175;
     }
     to {
         stroke-dasharray: 0;
     }
-}
+} */
 
 
 /* Fade-in animation */
